@@ -1,2 +1,2 @@
 # Data Science
-Find a pattern between movie budget, revenue using python, Linear Regression
+Data science Specializations and courses teach the fundamentals of interpreting data, performing analyses 
