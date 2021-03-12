@@ -1,2 +1,2 @@
 # Data Science
-Learn Data Science, Ml with practical examples
+Learn Data Science and Machine Learning with practical examples
